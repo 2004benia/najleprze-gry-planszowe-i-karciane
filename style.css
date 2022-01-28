@@ -1,27 +1,27 @@
 body
 {
-	background-color: gray; 
+	background-color: #E6E6FA; 
 	font-family: Verdana;
 	font-size: 20px;
-	color: white;
+	color: #4B0082	;
 }
 
 h1
 {
 	font-size: 48px;
-	color: red !important;
+	color: #8B008B;
 }
 
 /* Nieodwiedzony link */
 a:link
 {
-	color: yellow;
+	color: #32CD32;
 }
 
 /* Odwiedzony link */
 a:visited
 {
-	color:yellow;
+	color:#32CD32;
 }
 
 /* Link po najechaniu kursorem */
